@@ -8,13 +8,13 @@ const Book = (props) => {
             <div className='cart-img'>
               <img src= {img} alt="Book-images" />
             </div>
-            <div className='cart-info mt-4'>
+            <div className='cart-info my-5'>
               <h3 className='mb-3'>{name}</h3>
               <p className='mb-0'>Price: ${price}</p>
               <p className='mt-0 mb-0'>Ratings: {ratings} Star</p>
-              <p className='mt-0'>Publications: {publications}</p>
+              <p className='mt-2'>Publications: {publications}</p>
             </div>
-            <button className='w-100 border-0 rounded'>
+            <button className='w-100 border-0 buttn'>
                 <p>BUY NOW</p>
             </button>
         </div>

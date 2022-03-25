@@ -1,0 +1,17 @@
+.book-container img {
+    width: 280px;
+    height: 300px;
+    border-radius: 8px;
+}
+.cart-img{
+    text-align: center;
+    margin-top: 10px;
+}
+.cart-info{
+    margin-left: 10px;
+}
+.book-container{
+    border: 1px solid rgba(0, 0, 0, 0.924);
+    margin-left: 40px;
+    border-radius: 10px;
+}

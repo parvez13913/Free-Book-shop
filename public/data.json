@@ -1,0 +1,98 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b302d6ea99d",
+        "name": "Book Cover",
+        "publications": "Paroma Prokashoni",
+        "price": 220,
+        "ratings": 4,
+        "img": "https://img.freepik.com/free-psd/high-angle-turned-open-book-mock-up_23-2148657114.jpg?w=740"
+      },
+    {
+        "id": "184e13b9-9d54-4b2f-a70d-a77b3ii62d6ehd",
+        "name": "Magazine Mockup",
+        "publications": "Utsho Prokashon",
+        "price": 120,
+        "ratings": 5,
+        "img": "https://img.freepik.com/free-psd/book-cover-concrete-surface-mockup_125540-1699.jpg?t=st=1648191469~exp=1648192069~hmac=a840ce748143d773e8d3f63a968e01ae4d11e0f6ecea302d3ec19ca0fb9a4cd3&w=740"
+      },
+    {
+        "id": "124e13b9-2d884-4b2f-a74d-ag77b362d6ead",
+        "name": "Green Book",
+        "publications": "Gazi Prokashani",
+        "price": 228,
+        "ratings": 4,
+        "img": "https://img.freepik.com/free-psd/paper-sheet-book-cover-mockup_125540-882.jpg?w=740"
+      },
+    {
+        "id": "124e13b9-2d54-4b2f-a74dd-aub362d6ead",
+        "name": "Black Book",
+        "publications": "Paroma Prokashoni",
+        "price": 400,
+        "ratings": 4,
+        "img": "https://img.freepik.com/free-psd/book-cover-mockup_125540-572.jpg?t=st=1648226504~exp=1648227104~hmac=04dcfacb070b37ce65899d2176b77da2242c46a0d5afa5afb1e9c901d5c4971a&w=740"
+      },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-aub3362d6ead",
+        "name": "Book Of Star",
+        "publications": "New Oxford Publishers",
+        "price": 52,
+        "ratings": 2,
+        "img": "https://img.freepik.com/free-psd/book-hardcover-mockup_125540-225.jpg?w=740&t=st=1648237272~exp=1648237872~hmac=dfe9fb3470e640fe97d448553a189ddef58eb68788a38fbf88fa1d1bb563d3f7"
+      },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-aub3652d6ead",
+        "name": "Hard Cover",
+        "publications": "Book Club",
+        "price": 202,
+        "ratings": 5,
+        "img": "https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1648221578~exp=1648222178~hmac=f50b10f5ca3903bfae0cf74c1b4848d1cff145165482a37ed212607dac622c00&w=740"
+      },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-aub362d6ead9",
+        "name": "The Hound OF Empty House",
+        "publications": "Dynamic Publication",
+        "price": 502,
+        "ratings": 4,
+        "img": "https://img.freepik.com/free-psd/book-cover-dark-surface-mockup_125540-1816.jpg?w=740"
+      },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-aub362d6ead8",
+        "name": "Hard Cover",
+        "publications": "Utsho Prokashon",
+        "price": 102,
+        "ratings": 3,
+        "img": "https://img.freepik.com/free-psd/books-collection-mockup_125540-472.jpg?w=740"
+      },
+    {
+        "id": "124e3b9-2d54-4b2f-a74d-aub362d6ead0",
+        "name": "The White Moment",
+        "publications": "Gazi Prokashani",
+        "price": 302,
+        "ratings": 4,
+        "img": "https://img.freepik.com/free-psd/book-hardcover-mockup-three-views_125540-226.jpg?w=740"
+      },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-aub362d6ea1d",
+        "name": "Lorem Ipsum",
+        "publications": "Dynamic Publication Dhaka",
+        "price": 522,
+        "ratings": 5,
+        "img": "https://img.freepik.com/free-psd/book-cover-mock-up-arrangement_23-2148622888.jpg?t=st=1648237695~exp=1648238295~hmac=1194948edf13f50f4aeda964a7e189350316c3b6c47c6d4dde8711d5994c751e&w=740"
+      },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-aub362d6eads",
+        "name": "Mysterious Woman",
+        "publications": "Book Club",
+        "price": 902,
+        "ratings": 3,
+        "img": "https://img.freepik.com/free-psd/hard-cover-book-mockup_23-2149169378.jpg?w=740"
+      },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-aub362d6ead4",
+        "name": "Black Night",
+        "publications": "New Oxford Publishers",
+        "price": 1702,
+        "ratings": 5,
+        "img": "https://img.freepik.com/free-psd/beautiful-book-cover-mockup_23-2149152258.jpg?w=740"
+      }
+]

@@ -42,7 +42,7 @@
     {
         "id": "124e13b9-2d54-4b2f-a74d-aub3652d6ead",
         "name": "Hard Cover",
-        "publications": "Book Club",
+        "publications": "Book Club Publication",
         "price": 202,
         "ratings": 5,
         "img": "https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1648221578~exp=1648222178~hmac=f50b10f5ca3903bfae0cf74c1b4848d1cff145165482a37ed212607dac622c00&w=740"
@@ -57,7 +57,7 @@
       },
     {
         "id": "124e13b9-2d54-4b2f-a74d-aub362d6ead8",
-        "name": "Hard Cover",
+        "name": " The Count Of Monte Cristo",
         "publications": "Utsho Prokashon",
         "price": 102,
         "ratings": 3,
@@ -65,7 +65,7 @@
       },
     {
         "id": "124e3b9-2d54-4b2f-a74d-aub362d6ead0",
-        "name": "The White Moment",
+        "name": "The Adventure of The Reigate Squires",
         "publications": "Gazi Prokashani",
         "price": 302,
         "ratings": 4,

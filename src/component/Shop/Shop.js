@@ -10,7 +10,8 @@ const Shop = () => {
     },[])
     return (
         <div className='shop-container'>
-            <div className="product-container">
+            <div className="product-container container">
+                
             {
                 books.map(book => <Book 
                     key = {book.id}

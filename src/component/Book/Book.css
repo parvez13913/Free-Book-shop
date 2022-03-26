@@ -1,13 +1,11 @@
 .book-container img {
-    width: 280px;
+    width: 300px;
     height: 300px;
     border-radius: 8px;
 }
 .book-container{
     border: 1px solid rgba(0, 0, 0, 0.924);
-    margin-left: 40px;
     border-radius: 10px;
-    position: relative;
 }
 .cart-img{
     text-align: center;
@@ -16,15 +14,16 @@
 .cart-info{
     margin-left: 10px;
 }
-.buttn{
+.btn-tex{
     background-color: bisque;
     border-radius: 0px 0px 10px 10px;
-    position: absolute;
-    bottom: 0;
-    margin-top: 20px;
     font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-.buttn:hover{
+.btn-tex:hover{
     color: white;
     background-color: #2a414f;
+    
 }

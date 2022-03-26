@@ -12,7 +12,7 @@ const Cart = (props) => {
     const handleChooseOneForMe = (cart) => {
         console.log(cart);
          const randomNumber = parseInt(Math.random() *( cart.length));
-         const randomName = (([randomNumber].name))
+         const randomName = (cart([randomNumber].name))
          setRandomName(randomName);
     }
     // const handleChooseAgin = (cart) => {

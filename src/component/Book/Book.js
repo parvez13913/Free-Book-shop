@@ -4,8 +4,8 @@ import { faShoppingCart } from '@fortawesome/free-solid-svg-icons'
 import React from 'react';
 import './Book.css'
 const Book = (props) => {
-    console.log(props.book);
     const {name,price,img,ratings,publications} = props.book;
+    const {handleAddToCart} = props;
     return (
         <div className='book-container shadow-lg my-5'>
             <div className='cart-img'>
@@ -18,7 +18,7 @@ const Book = (props) => {
               <p className='mt-0'>Publications: {publications}</p>
             </div>
             <div className='mt-4'>
-                <button className='w-100 border-0 btn-tex'>
+                <button onClick={() => handleAddToCart(props.book)} className='w-100 border-0 btn-tex'>
                    <p className='mx-2 mt-2'>Add To Cart</p>
                    <FontAwesomeIcon icon = {faShoppingCart}></FontAwesomeIcon>
                 </button>

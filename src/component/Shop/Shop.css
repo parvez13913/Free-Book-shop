@@ -1,9 +1,18 @@
 .shop-container{
     display: grid;
     grid-template-columns: 4fr 1fr;
+    position: relative;
 }
 .product-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr );
     gap: 30px;
+}
+.cart-container{
+    background-color: bisque;
+}
+@media screen and (max-width:490px) {
+    .product-container{
+        grid-template-columns: repeat(1,1fr);
+    }
 }

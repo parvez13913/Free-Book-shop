@@ -1,12 +1,10 @@
 ## Free Book Shop
 
-This project was bootstrapped with [Free Book Shop](https://comfy-brioche-d2453d.netlify.app/).
+This project was bootstrapped with react[Free Book Shop](https://comfy-brioche-d2453d.netlify.app/).
 
-## Available Scripts
+## Free Book Shop
 
-In the project directory, you can run:
-
-### `npm start`
+### Free Book Shop
 
 Runs the app in the development mode.\
 Open [Free Book](https://comfy-brioche-d2453d.netlify.app/) to view it in your browser.

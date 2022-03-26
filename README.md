@@ -1,6 +1,6 @@
 ## Free Book Shop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Free Book Shop](https://comfy-brioche-d2453d.netlify.app/).
 
 ## Available Scripts
 

@@ -7,6 +7,13 @@ const Cart = (props) => {
     for(const book of cart){
         total = total + book.price;
     }
+    const handleChooseOneForMe = (cart) => {
+         const choose = Math.random() *( cart.length);
+         console.log(parseInt(choose));
+    }
+    const handleChooseAgin = (cart) => {
+        console.log(cart);
+    }
     return (
         <div className="cart-info">
             <h3 className='text-center my-4 mt-4'>Selected Book</h3>
@@ -19,8 +26,8 @@ const Cart = (props) => {
                     ></Display>)
                 }
                 <p>Total Price: {total}</p>
-                <button className='choose-btn'>CHOOSE 1 FOR ME</button> <br/> <br/>
-                <button className='choose-btn'>CHOOSE AGIN</button>
+                <button onClick={() => handleChooseOneForMe(cart)} className='choose-btn'>CHOOSE 1 FOR ME</button> <br/> <br/>
+                <button onClick={() => handleChooseAgin(cart)} className='choose-btn'>CHOOSE AGIN</button>
             </div>
         </div>
     );

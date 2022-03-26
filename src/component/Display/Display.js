@@ -1,8 +1,7 @@
 import React from 'react';
 import './Display.css'
 const Display = (props) => {
-    console.log(props);
-    const {name,img,newCart} = props.bookName;
+    const {name,img} = props.bookName;
     return (
         <div>
             <div className='display'>
@@ -12,7 +11,9 @@ const Display = (props) => {
                 <div>
                     <h6>{name}</h6>
                 </div>
-                <div>{newCart}</div>
+                <div>
+                    <h1>{}</h1>
+                </div>
             </div>
         </div>
     );
